@@ -1,0 +1,1398 @@
+{
+    "cars": [
+        {
+            "car": "Maruti Suzuki Wagon R",
+            "mileage": "22.5",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "998 cc"
+        },
+        {
+            "car": "Maruti Suzuki Swift",
+            "mileage": "23.76",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1197 cc"
+        },
+        {
+            "car": "Maruti Suzuki Dzire",
+            "mileage": "24.12",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1197 cc"
+        },
+        {
+            "car": "Hyundai Creta",
+            "mileage": "17.8",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1497 cc"
+        },
+        {
+            "car": "Mahindra Scorpio N",
+            "mileage": "15.4",
+            "fuel": "Diesel",
+            "transmission": "Manual",
+            "engine": "2184 cc"
+        },
+        {
+            "car": "Toyota Fortuner",
+            "mileage": "14.2",
+            "fuel": "Diesel",
+            "transmission": "Automatic",
+            "engine": "2755 cc"
+        },
+        {
+            "car": "Hyundai Venue",
+            "mileage": "17.52",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1197 cc"
+        },
+        {
+            "car": "Hyundai i20",
+            "mileage": "20.35",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1197 cc"
+        },
+        {
+            "car": "Hyundai Verna",
+            "mileage": "17.7",
+            "fuel": "Petrol",
+            "transmission": "Manual",
+            "engine": "1497 cc"
+        },
+        {
+            "car": "Hyundai Creta",
+            "mileage": "21.4",
+            "fuel": "Diesel",
+            "transmission": "Manual",
+            "engine": "1493 cc"
+        },
+        {
+            "car":"Mahindra XUV300",
+            "mileage":"20",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Mahindra Thar",
+            "mileage":"15.2",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2184 cc"
+        },
+        {
+            "car":"Mahindra Bolero",
+            "mileage":"16.7",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1493 cc"
+        },
+        {
+            "car":"Mahindra Scorpio",
+            "mileage":"15.4",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2179 cc"
+        },
+        {
+            "car":"Mahindra Marazzo",
+            "mileage":"17.3",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Mahindra KUV100 NXT",
+            "mileage":"18.15",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1198 cc"
+        },
+        {
+            "car":"Mahindra Alturas G4",
+            "mileage":"12.35",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2157 cc"
+        },
+        {
+            "car":"Mahindra TUV300",
+            "mileage":"18.49",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1493 cc"
+        },
+        {
+            "car":"Mahindra XUV500",
+            "mileage":"15.1",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2179 cc"
+        },
+        {
+            "car":"Mahindra Bolero Pik-Up",
+            "mileage":"13.86",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2523 cc"
+        },
+        {
+            "car":"Mahindra Bolero Camper",
+            "mileage":"13.86",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2523 cc"
+        },
+        {
+            "car":"Mahindra Supro",
+            "mileage":"23.5",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"909 cc"
+        },
+        {
+            "car":"Tata Nexon",
+            "mileage":"17",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Harrier",
+            "mileage":"17",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1956 cc"
+        },
+        {
+            "car":"Tata Tiago",
+            "mileage":"23.84",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Tigor",
+            "mileage":"20.3",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Altroz",
+            "mileage":"19.05",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Safari",
+            "mileage":"16.14",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1956 cc"
+        },
+        {
+            "car":"Tata Tigor EV",
+            "mileage":"306",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Tata Nexon EV",
+            "mileage":"312",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Tata Tigor JTP",
+            "mileage":"20.3",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Tiago NRG",
+            "mileage":"23.84",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Tata Tiago EV",
+            "mileage":"306",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Tata Tigor EV",
+            "mileage":"306",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Tata Nexon EV",
+            "mileage":"312",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Toyota Innova",
+            "mileage":"11.4",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"2393 cc"
+        },
+        {
+            "car":"Toyota Fortuner",
+            "mileage":"14.2",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2755 cc"
+        },
+        {
+            "car":"Toyota Glanza",
+            "mileage":"23.87",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Toyota Urban Cruiser",
+            "mileage":"17.03",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1462 cc"
+        },
+        {
+            "car":"Toyota Yaris",
+            "mileage":"17.1",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1496 cc"
+        },
+        {
+            "car":"Toyota Camry",
+            "mileage":"19.16",
+            "fuel":"Hybrid",
+            "transmission":"Automatic",
+            "engine":"2487 cc"
+        },
+        {
+            "car":"Toyota Vellfire",
+            "mileage":"16.35",
+            "fuel":"Hybrid",
+            "transmission":"Automatic",
+            "engine":"2494 cc"
+        },
+        {
+            "car":"Toyota Land Cruiser",
+            "mileage":"11.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"4461 cc"
+        },
+        {
+            "car":"Toyota Land Cruiser Prado",
+            "mileage":"11.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2982 cc"
+        },
+        {
+            "car":"Toyota Prius",
+            "mileage":"26.27",
+            "fuel":"Hybrid",
+            "transmission":"Automatic",
+            "engine":"1798 cc"
+        },
+        {
+            "car":"Toyota Corolla Altis",
+            "mileage":"21.3",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1798 cc"
+        },
+        {
+            "car":"Toyota Etios Liva",
+            "mileage":"23.59",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Toyota Etios Cross",
+            "mileage":"23.59",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Honda City",
+            "mileage":"17.8",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Honda Amaze",
+            "mileage":"18.6",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Honda Jazz",
+            "mileage":"17.1",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Honda WR-V",
+            "mileage":"23.7",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Honda Civic",
+            "mileage":"16.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1799 cc"
+        },
+        {
+            "car":"Honda CR-V",
+            "mileage":"14.4",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1997 cc"
+        },
+        {
+            "car":"Honda HR-V",
+            "mileage":"17.1",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Honda Brio",
+            "mileage":"16.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1199 cc"
+        },
+        {
+            "car":"Maruti Suzuki Baleno",
+            "mileage":"23.87", 
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Maruti Suzuki Ertiga",
+            "mileage":"19.01",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1462 cc"
+        },
+        {
+            "car":"Maruti Suzuki XL6",
+            "mileage":"19.01",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1462 cc"
+        },
+        {
+            "car":"Maruti Suzuki S-Presso",
+            "mileage":"21.7",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"998 cc"
+        },
+        {
+            "car":"Maruti Suzuki Celerio",
+            "mileage":"21.63",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"998 cc"
+        },
+        {
+            "car":"Maruti Suzuki Celerio X",
+            "mileage":"21.63",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"998 cc"
+        },
+        {
+            "car":"Maruti Suzuki S-Cross",
+            "mileage":"18.55",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1462 cc"
+        },
+        {
+            "car":"Maruti Suzuki Ignis",
+            "mileage":"20.89",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Maruti Suzuki Vitara Brezza",
+            "mileage":"17.03",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1462 cc"
+        },
+        {
+            "car":"Maruti Suzuki Eeco",
+            "mileage":"16.11",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1196 cc"
+        },
+        {
+            "car":"Maruti Suzuki Alto",
+            "mileage":"22.05",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"796 cc"
+        },
+        {
+            "car":"Maruti Suzuki Alto K10",
+            "mileage":"24.07",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"998 cc"
+        },
+        {
+            "car":"Hyundai Grand i10 Nios",
+            "mileage":"26.2",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Hyundai Aura",
+            "mileage":"25.4",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Hyundai Santro",
+            "mileage":"20.3",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1086 cc"
+        },
+        {
+            "car":"Hyundai Grand i10",
+            "mileage":"20.7",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Hyundai Elite i20",
+            "mileage":"18.6",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Hyundai Venue",
+            "mileage":"17.52",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Hyundai Verna",
+            "mileage":"17.7",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Hyundai Creta",
+            "mileage":"17.8",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Hyundai Alcazar",
+            "mileage":"14.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1999 cc"
+        },
+        {
+            "car":"Hyundai Kona Electric",
+            "mileage":"452",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"Hyundai Elantra",
+            "mileage":"15.89",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1999 cc"
+        },
+        {
+            "car":"Hyundai Tucson",
+            "mileage":"15.38",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1999 cc"
+        },
+        {
+            "car":"Hyundai Palisade",
+            "mileage":"12.8",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2199 cc"
+        },
+        {
+            "car":"Kia Seltos",
+            "mileage":"16.8",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"Kia Sonet",
+            "mileage":"18.4",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1197 cc"
+        },
+        {
+            "car":"Kia Carnival",
+            "mileage":"13.9",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2199 cc"
+        },
+        {
+            "car":"Kia Carens",
+            "mileage":"18.6",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1497 cc"
+        },
+        {
+            "car":"MG Hector",
+            "mileage":"17.41",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1451 cc"
+        },
+        {
+            "car":"MG Hector Plus",
+            "mileage":"15.81",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1451 cc"
+        },
+        {
+            "car":"MG ZS EV",
+            "mileage":"340",
+            "fuel":"Electric",
+            "transmission":"Automatic",
+            "engine":"-"
+        },
+        {
+            "car":"MG Gloster",
+            "mileage":"12.35",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1996 cc"
+        },
+        {
+            "car":"MG Astor",
+            "mileage":"18.06",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Jeep Compass",
+            "mileage":"16.3",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1368 cc"
+        },
+        {
+            "car":"Jeep Wrangler",
+            "mileage":"12.1",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee",
+            "mileage":"12.8",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3604 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee SRT",
+            "mileage":"12.8",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3604 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee Trackhawk",
+            "mileage":"12.8",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3604 cc"
+        },
+        {
+            "car":"Jeep Compass Trailhawk",
+            "mileage":"16.3",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1956 cc"
+        },
+        {
+            "car":"Jeep Wrangler Unlimited",
+            "mileage":"12.1",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee",
+            "mileage":"12.8",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2987 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee SRT",
+            "mileage":"12.8",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2987 cc"
+        },
+        {
+            "car":"Jeep Grand Cherokee Trackhawk",
+            "mileage":"12.8",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2987 cc"
+        },
+        {
+            "car":"Jeep Compass Trailhawk",
+            "mileage":"16.3",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1956 cc"
+        },
+        {
+            "car":"Jeep Wrangler Unlimited",
+            "mileage":"12.1",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"Nissan Magnite",
+            "mileage":"20",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Nissan Kicks",
+            "mileage":"14.23",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Nissan GT-R",
+            "mileage":"9.0",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3799 cc"
+        },
+        {
+            "car":"Nissan Sunny",
+            "mileage":"17.03",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Nissan Micra",
+            "mileage":"19.34",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1198 cc"
+        },
+        {
+            "car":"Nissan Micra Active",
+            "mileage":"19.34",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1198 cc"
+        },
+        {
+            "car":"Nissan Kicks",
+            "mileage":"14.23",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Nissan GT-R",
+            "mileage":"9.0",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3799 cc"
+        },
+        {
+            "car":"Nissan Sunny",
+            "mileage":"17.03",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Nissan Micra",
+            "mileage":"19.34",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1198 cc"
+        },
+        {
+            "car":"Nissan Micra Active",
+            "mileage":"19.34",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1198 cc"
+        },
+        {
+            "car":"Renault Kiger",
+            "mileage":"20",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Renault Kwid",
+            "mileage":"25.17",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"799 cc"
+        },
+        {
+            "car":"Renault Triber",
+            "mileage":"20",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Renault Duster",
+            "mileage":"16.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Renault Captur",
+            "mileage":"13.87",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Renault Lodgy",
+            "mileage":"19.98",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Duster",
+            "mileage":"16.5",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Captur",
+            "mileage":"13.87",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Lodgy",
+            "mileage":"19.98",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Duster",
+            "mileage":"16.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Renault Captur",
+            "mileage":"13.87",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Renault Lodgy",
+            "mileage":"19.98",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Duster",
+            "mileage":"16.5",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Renault Captur",
+            "mileage":"13.87",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1461 cc"
+        },
+        {
+            "car":"Ford EcoSport",
+            "mileage":"21.7",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1496 cc"
+        },
+        {
+            "car":"Ford Figo",
+            "mileage":"24.4",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1194 cc"
+        },
+        {
+            "car":"Ford Freestyle",
+            "mileage":"18.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1194 cc"
+        },
+        {
+            "car":"Ford Aspire",
+            "mileage":"18.5",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"1194 cc"
+        },
+        {
+            "car":"Ford Endeavour",
+            "mileage":"13.9",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1996 cc"
+        },
+        {
+            "car":"Ford Mustang",
+            "mileage":"13.0",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"4951 cc"
+        },
+        {
+            "car":"Ford EcoSport",
+            "mileage":"21.7",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Ford Figo",
+            "mileage":"24.4",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1499 cc"
+        },
+        {
+            "car":"Ford Freestyle",
+            "mileage":"18.5",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1499 cc"
+        },
+        {
+            "car":"Ford Aspire",
+            "mileage":"18.5",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1499 cc"
+        },
+        {
+            "car":"Ford Endeavour",
+            "mileage":"13.9",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1996 cc"
+        },
+        {
+            "car":"Ford Mustang",
+            "mileage":"13.0",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"4951 cc"
+        },
+        {
+            "car":"Skoda Rapid",
+            "mileage":"18.97",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Skoda Octavia",
+            "mileage":"15.81",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Skoda Superb",
+            "mileage":"15.1",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Skoda Kodiaq",
+            "mileage":"16.25",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Skoda Rapid",
+            "mileage":"18.97",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Skoda Octavia",
+            "mileage":"15.81",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Skoda Superb",
+            "mileage":"15.1",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1986 cc"
+        },
+        {
+            "car":"Skoda Kodiaq",
+            "mileage":"16.25",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Volkswagen Polo",
+            "mileage":"17.75",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Volkswagen Vento",
+            "mileage":"17.69",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Volkswagen Taigun",
+            "mileage":"17.1",
+            "fuel":"Petrol",
+            "transmission":"Manual",
+            "engine":"999 cc"
+        },
+        {
+            "car":"Volkswagen Tiguan Allspace",
+            "mileage":"12.65",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Volkswagen Polo",
+            "mileage":"17.75",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Volkswagen Vento",
+            "mileage":"17.69",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Volkswagen Taigun",
+            "mileage":"17.1",
+            "fuel":"Diesel",
+            "transmission":"Manual",
+            "engine":"1498 cc"
+        },
+        {
+            "car":"Volkswagen Tiguan Allspace",
+            "mileage":"12.65",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Audi A4",
+            "mileage":"17.42",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Audi A6",
+            "mileage":"14.11",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Audi Q2",
+            "mileage":"18.51",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1984 cc"
+        },
+        {
+            "car":"Audi Q8",
+            "mileage":"12.1",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2995 cc"
+        },
+        {
+            "car":"Audi A4",
+            "mileage":"17.42",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Audi A6",
+            "mileage":"14.11",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Audi Q2",
+            "mileage":"18.51",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1968 cc"
+        },
+        {
+            "car":"Audi Q8",
+            "mileage":"12.1",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2967 cc"
+        },
+        {
+            "car":"BMW 2 Series",
+            "mileage":"14.82",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"BMW 3 Series",
+            "mileage":"16.13",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"BMW 5 Series",
+            "mileage":"15.01",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"BMW 7 Series",
+            "mileage":"39.53",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2998 cc"
+        },
+        {
+            "car":"BMW 2 Series",
+            "mileage":"14.82",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1995 cc"
+        },
+        {
+            "car":"BMW 3 Series",
+            "mileage":"16.13",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1995 cc"
+        },
+        {
+            "car":"BMW 5 Series",
+            "mileage":"15.01",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1995 cc"
+        },
+        {
+            "car":"BMW 7 Series",
+            "mileage":"39.53",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2993 cc"
+        },
+        {
+            "car":"BMW X1",
+            "mileage":"19.62",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"BMW X3",
+            "mileage":"16.55",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1998 cc"
+        },
+        {
+            "car":"BMW X5",
+            "mileage":"13.38",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2998 cc"
+        },
+        {
+            "car":"BMW X7",
+            "mileage":"13.38",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2998 cc"
+        },
+        {
+            "car":"BMW X1",
+            "mileage":"19.62",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1995 cc"
+        },
+        {
+            "car":"BMW X3",
+            "mileage":"16.55",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1995 cc"
+        },
+        {
+            "car":"BMW X5",
+            "mileage":"13.38",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2993 cc"
+        },
+        {
+            "car":"BMW X7",
+            "mileage":"13.38",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2993 cc"
+        },
+        {
+            "car":"Mercedes-Benz A-Class",
+            "mileage":"17.5",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1332 cc"
+        },
+        {
+            "car":"Mercedes-Benz C-Class",
+            "mileage":"12.06",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1991 cc"
+        },
+        {
+            "car":"Mercedes-Benz E-Class",
+            "mileage":"15.0",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1991 cc"
+        },
+        {
+            "car":"Mercedes-Benz S-Class",
+            "mileage":"7.08",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3982 cc"
+        },
+        {
+            "car":"Mercedes-Benz A-Class",
+            "mileage":"17.5",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz C-Class",
+            "mileage":"12.06",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz E-Class",
+            "mileage":"15.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz S-Class",
+            "mileage":"7.08",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2925 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLA",
+            "mileage":"17.88",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1332 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLC",
+            "mileage":"14.72",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"1991 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLE",
+            "mileage":"9.5",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"2999 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLS",
+            "mileage":"8.9",
+            "fuel":"Petrol",
+            "transmission":"Automatic",
+            "engine":"3982 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLA",
+            "mileage":"17.88",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLC",
+            "mileage":"14.72",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLE",
+            "mileage":"9.5",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2925 cc"
+        },
+        {
+            "car":"Mercedes-Benz GLS",
+            "mileage":"8.9",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"2925 cc"
+        },
+        {
+            "car":"Mercedes-Benz V-Class",
+            "mileage":"16.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz V-Class Elite",
+            "mileage":"16.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz V-Class",
+            "mileage":"16.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        },
+        {
+            "car":"Mercedes-Benz V-Class Elite",
+            "mileage":"16.0",
+            "fuel":"Diesel",
+            "transmission":"Automatic",
+            "engine":"1950 cc"
+        }
+
+    ]
+}
