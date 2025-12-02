@@ -8,8 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview --port 5173",
-    "predeploy": "npm run build && rm -rf docs && mv dist docs",
-    "deploy": "gh-pages -d docs"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "https://SAQLAINAP.github.io/Fuel-Cal",
   "dependencies": {
