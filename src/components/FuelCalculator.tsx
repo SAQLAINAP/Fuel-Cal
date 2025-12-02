@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Car as Card, Fuel, Car, Route } from 'lucide-react';
+import { Car, Fuel, Route } from './icons';
 import carData from '../data/cars.json';
 import routeData from '../data/routes.json';
 import fuelPrices from '../data/fuel-prices.json';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { Navigation } from 'lucide-react';
+import { Navigation } from './components/icons';
 import FuelCalculator from './components/FuelCalculator';
 
 function LandingPage() {
