@@ -86,7 +86,7 @@ function LandingPage() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Fuel-Cal">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/calculator" element={<FuelCalculator />} />
